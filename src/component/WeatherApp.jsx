@@ -85,7 +85,7 @@ const WeatherApp = () => {
             searchData();
           }}
         >
-          <img src="/images/search.png" alt="search" />
+          <img src="images/search.png" alt="search" />
         </div>
       </div>
       <div className="weatherImage">
